@@ -1,3 +1,5 @@
+// Validation/parsing/error handling/etc excluded for brevity.
+
 export function transformer(token) {
   return token.value
     .map((val) => {
