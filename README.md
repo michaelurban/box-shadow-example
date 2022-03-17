@@ -22,3 +22,5 @@ TypeError: Cannot read properties of undefined (reading 'original')
     at Object.buildPlatform (/<project path>/box-shadow-example/node_modules/style-dictionary/lib/buildPlatform.js:62:3)
 
 ```
+
+**Validation/parsing/error handling/etc excluded for brevity.**
