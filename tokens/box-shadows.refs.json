@@ -7,14 +7,14 @@
           "color": "{color.shadow.key.value}",
           "offsetX": "0",
           "offsetY": "1px",
-          "spreadradius": "0"
+          "spreadRadius": "0"
         },
         {
           "blurRadius": "3px",
           "color": "{color.shadow.ambient.value}",
           "offsetX": "0",
           "offsetY": "1px",
-          "spreadradius": "1px"
+          "spreadRadius": "1px"
         }
       ]
     },
@@ -25,14 +25,14 @@
           "color": "{color.shadow.key.value}",
           "offsetX": "0",
           "offsetY": "1px",
-          "spreadradius": "0"
+          "spreadRadius": "0"
         },
         {
           "blurRadius": "6px",
           "color": "{color.shadow.ambient.value}",
           "offsetX": "0",
           "offsetY": "2px",
-          "spreadradius": "2px"
+          "spreadRadius": "2px"
         }
       ]
     }
