@@ -1,0 +1,13 @@
+{
+  "name": "box-shadow-test",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build-refs": "./main.js refs",
+    "build": "./main.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "style-dictionary": "^3.1.1"
+  }
+}

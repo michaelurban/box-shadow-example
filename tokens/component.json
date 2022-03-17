@@ -1,0 +1,15 @@
+{
+  "component": {
+    "rect": {
+      "width": {
+        "value": "160px"
+      },
+      "height": {
+        "value": "90px"
+      },
+      "box-shadow": {
+        "value": "{box-shadow.level1.value}"
+      }
+    }
+  }
+}

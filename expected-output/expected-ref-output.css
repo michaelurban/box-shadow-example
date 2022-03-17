@@ -1,0 +1,11 @@
+:root {
+  --bse-color-shadow-ambient: rgba(0, 0, 0, 0.15);
+  --bse-color-shadow-key: rgba(0, 0, 0, 0.3);
+  --bse-box-shadow-level2: 0 1px 2px var(--bse-color-shadow-key),
+    0 2px 6px var(--bse-color-shadow-ambient);
+  --bse-box-shadow-level1: 0 1px 2px var(--bse-color-shadow-key),
+    0 1px 3px var(--bse-color-shadow-ambient);
+  --bse-component-rect-height: 90px;
+  --bse-component-rect-width: 160px;
+  --bse-component-rect-box-shadow: var(--bse-box-shadow-level1);
+}
